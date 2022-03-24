@@ -1,4 +1,4 @@
-### Hi friend 👋
+### Hi friend 👋🏾
 
 - 🦝 I'm a FullStack developer.
 - 🌱 I’m currently learning Java.
