@@ -3,7 +3,7 @@
 - 🦝 I'm a Front-end developer.
 - 🌱 I’m currently learning Typescript.
 - 💬 Ask me about anything, if a don't know I'll discover a answer.
-- 📫 How to reach me in my website https://gustavofelipe.netlify.app/ or in LinkedIn https://www.linkedin.com/in/gustavoffelipe/
+- 📫 Reach me in my website https://gustavofelipe.netlify.app/ or in LinkedIn https://www.linkedin.com/in/gustavoffelipe/
 - 😄 Pronouns: He/Him
 - ✨ I thiking: No exist rigth or wrong road, a road only exist while we walked them. Do your own road, live your own live.
 - ⚡ Fun fact: I have a wife, a son, two dogs, a cat and a lot of plants. Our house is pure chaos, but a good chaos.
